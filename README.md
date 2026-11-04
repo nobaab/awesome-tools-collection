@@ -28,6 +28,7 @@ To provide a comprehensive directory of online tools that help people accomplish
 ### Calculators and Math
 
 * [Calcuria](https://calcuria.com/) - Comprehensive online calculator with scientific, financial, and unit conversion capabilities.
+* [Time-Card Calculator](https://zequnweb.com/zh/tools/time-card-calculator/) - Free time-card calculator: weekly clock-in/out, unpaid breaks, daily/weekly overtime and pre-tax pay estimate, cross-midnight shifts, CSV export and print, no signup, on-device calculation.
 
 ### Text and Writing
 
