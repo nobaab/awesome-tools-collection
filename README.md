@@ -60,3 +60,13 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+---
+
+## Star History
+
+If you find this collection useful, please consider giving it a ⭐ on GitHub and sharing it with others!
+
+**Maintained with ❤️ by the community**
