@@ -23,10 +23,12 @@ To provide a comprehensive directory of online tools that help people accomplish
 
 ### Image Tools
 
+* [Creator Tools Hub](https://warm-puffpuff-929392.netlify.app/) - Free collection of 32 browser-based creator tools, including a video resizer, compressor, caption and SRT maker, GIF maker, and hashtag generator, with no sign-up required.
 * [PhotoResizerInKB](https://photoresizerinkb.com/) - Resize images while controlling file size in KB. Perfect for optimizing images for web or meeting specific size requirements.
 
 ### Calculators and Math
 
+* [Calclator](https://celadon-tulumba-7b3838.netlify.app/) - Free collection of 281 online calculators for finance, health, and math, with no sign-up required.
 * [Calcuria](https://calcuria.com/) - Comprehensive online calculator with scientific, financial, and unit conversion capabilities.
 
 ### Text and Writing
@@ -58,13 +60,3 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
-
----
-
-## Star History
-
-If you find this collection useful, please consider giving it a ⭐ on GitHub and sharing it with others!
-
-**Maintained with ❤️ by the community**
