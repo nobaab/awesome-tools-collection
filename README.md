@@ -24,6 +24,7 @@ To provide a comprehensive directory of online tools that help people accomplish
 ### Image Tools
 
 * [PhotoResizerInKB](https://photoresizerinkb.com/) - Resize images while controlling file size in KB. Perfect for optimizing images for web or meeting specific size requirements.
+- [zippic](https://zippic.app/) - Free image, video and document tools that run in the browser; compress, convert and crop images with no signup, nothing uploaded.
 
 ### Calculators and Math
 
